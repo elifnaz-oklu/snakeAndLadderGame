@@ -1,0 +1,1318 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  min-height: 100%;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-containermenu {
+  flex: initial;
+  width: 100%;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+}
+.button {
+  width: 20%;
+  height: 100%;
+  align-items: center;
+  background-color: yellowgreen;
+  margin-right: 75px;
+}
+.player1 {
+  background-color: blue;
+  flex:initial;
+  display: flex;
+  margin-left: 50%;
+  width: 20%;
+  height: 40%;
+  border-radius: 50%
+}
+.player2 {
+  background-color: pink;
+  flex:initial;
+  display: flex;
+  margin-left: 50%;
+  width: 20%;
+  height: 40%;
+  border-radius: 50%
+}
+
+.player3 {
+  background-color: purple;
+  flex:initial;
+  display: flex;
+  margin-left: 50%;
+  width: 20%;
+  height: 40%;
+  border-radius: 50%
+}
+.player4 {
+  background-color: orange;
+  flex:initial;
+  display: flex;
+  margin-left: 50%;
+  width: 20%;
+  height: 40%;
+  border-radius: 50%
+}
+.number {
+  flex:initial;
+  display: flex;
+  width: 30%;
+  height: 15%;
+}
+.alert-message {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  width: 40%;
+  align-items: center;
+}
+.home-container001 {
+  flex: initial;
+  width: 100%;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+}
+.home-container002 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/home.jpg") yellowgreen;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container003 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/snakeface.jpg") lightcoral;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container004 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/ladderdown.jpg") lightblue;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container005 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container006 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container007 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/snakeface.jpg") lightseagreen;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container008 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/ladderdown.jpg") orange;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container009 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container010 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/snakeface.jpg") lightcyan;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container011 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/ladderdown.jpg") yellow;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container012 {
+  flex: initial;
+  width: 100%;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+}
+.home-container013 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container014 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container015 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container016 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/ladderdown.jpg") lightpink;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container017 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container018 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container019 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/ladderup.jpg") orange;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container020 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/snaketail.jpg") lightcyan;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container021 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/snakeface.jpg") lightsalmon;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container022 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container023 {
+  flex: initial;
+  width: 100%;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+}
+.home-container024 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/snaketail.jpg") lightcoral;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+}
+.home-container025 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container026 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/ladderup.jpg") lightblue;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container027 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container028 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container029 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/snaketail.jpg") lightseagreen;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container030 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/snakeface.jpg") lightsteelblue;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container031 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container032 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container033 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/ladderup.jpg") yellow;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container034 {
+  flex: initial;
+  width: 100%;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+}
+.home-container035 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container036 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/snakeface.jpg") yellow;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container037 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container038 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/snakeface.jpg") orange;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container039 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container040 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container041 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/ladderdown.jpg") lightgreen;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container042 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/snaketail.jpg") lightsalmon;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container043 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container044 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container045 {
+  flex: initial;
+  width: 100%;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+}
+.home-container046 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/snaketail.jpg") orange;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container047 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container048 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container049 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container050 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container051 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container052 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container053 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/snaketail.jpg") lightsteelblue;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container054 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container055 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/ladderup.jpg") lightgreen;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container056 {
+  flex: initial;
+  width: 100%;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+}
+.home-container057 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container058 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/ladderdown.jpg") lightgray;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container059 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container060 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/ladderdown.jpg") lightcyan;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container061 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container062 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/snakeface.jpg") lightslategray;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container063 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container064 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container065 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/snakeface.jpg") lightgreen;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container066 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container067 {
+  flex: initial;
+  width: 100%;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+}
+.home-container068 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container069 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container070 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/ladderdown.jpg") cadetblue;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container071 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container072 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/ladderup.jpg") lightcyan;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container073 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container074 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container075 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container076 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container077 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/ladderdown.jpg") lightslategray;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container078 {
+  flex: initial;
+  width: 100%;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+}
+.home-container079 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/ladderup.jpg") lightgray;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container080 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container081 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container082 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container083 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/snaketail.jpg") lightslategray;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container084 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/ladderdown.jpg") orangered;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container085 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container086 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/ladderup.jpg") lightpink;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container087 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container088 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container089 {
+  flex: initial;
+  width: 100%;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+}
+.home-container090 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container091 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/snaketail.jpg") yellow;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container092 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container093 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container094 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/snakeface.jpg") lightblue;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container095 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/ladderup.jpg") orangered;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container096 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/ladderdown.jpg") lightsalmon;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container097 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container098 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container099 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/snaketail.jpg") lightgreen;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container100 {
+  flex: initial;
+  width: 100%;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+}
+.home-container101 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/start.jpg") yellowgreen;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container102 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/ladderup.jpg") cadetblue;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container103 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container104 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container105 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container106 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/snaketail.jpg") lightblue;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container107 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/ladderup.jpg") lightsalmon;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container108 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background:url("images/ladderup.jpg") lightslategray;
+  background-size:contain;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.home-container109 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
+.home-container110 {
+  flex: initial;
+  width: 200px;
+  border: 2px solid black;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: yellowgreen ;
+}
